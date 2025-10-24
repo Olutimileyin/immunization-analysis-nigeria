@@ -45,13 +45,17 @@ The core findings are best illustrated through time-series plots.
 
 Shows the success of national vaccine efforts over time.
 
-![Time Series of Top 5 Immunization Coverage Indicators in Nigeria](outputs/top_coverage_trend.png)
+![Time Series of Top 5 Immunization Coverage Indicators in Nigeria]
+<img width="1892" height="547" alt="image" src="https://github.com/user-attachments/assets/881e2d89-d000-4e08-8122-2e421fb2b974" />
+
 
 ### 2. Vaccine-Preventable Disease Cases Trend
 
 Illustrates the long-term burden of disease and the impact of intervention.
 
-![Time Series of Top 5 Vaccine-Preventable Disease Cases in Nigeria](outputs/top_disease_cases_trend.png)
+![Time Series of Top 5 Vaccine-Preventable Disease Cases in Nigeria]
+<img width="1225" height="547" alt="image" src="https://github.com/user-attachments/assets/0602b523-0174-4ad8-b159-0c07ff24867f" />
+
 
 ---
 
